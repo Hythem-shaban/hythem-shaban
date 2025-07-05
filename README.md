@@ -2,7 +2,7 @@
 <h3 align="center">Digital Design and Verification Engineer</h3>
 
 
-- I’m currently working at as a Part-Time Teaching Assistant at **Alamien International University**
+- I’m currently working as a Part-Time Teaching Assistant at **Alamien International University**
 
 
 - All of my projects are available at [/hythem-shaban](https://github.com/hythem-shaban)
